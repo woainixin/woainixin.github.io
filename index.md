@@ -17,7 +17,7 @@ I am currently an Assistant Professor (RTDa) in the Department of Information En
 ### Research Interests
 Face analysis, human action understanding, augmented reality (AR), segmentation, optimization problems, etc.
 ### 最新消息
-最佳论文奖
+获得最佳论文奖
 ### Publications
 2020 论文引用、论文链接、代码链接
 2019 论文引用、论文链接、代码链接
